@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "aUBDrj5eMn3MHhwyxMZahcDflHi38mFtBe/JalpXBcw=",
+  "Hash": "x/KiPb0l2CkLDNRBOTKvY8WhirfSIgDafK1PrAltiso=",
   "Source": "LeaveManagement",
   "BasePath": "_content/LeaveManagement",
   "Mode": "Default",
@@ -2089,6 +2089,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\ji565\\dotnet\\LeaveManagement\\wwwroot\\lib\\sweetalert\\sweetalert.min.js",
+      "SourceId": "LeaveManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ji565\\dotnet\\LeaveManagement\\wwwroot\\",
+      "BasePath": "_content/LeaveManagement",
+      "RelativePath": "lib/sweetalert/sweetalert.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\sweetalert\\sweetalert.min.js"
     }
   ]
 }
