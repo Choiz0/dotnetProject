@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ji565\\git\\dotnetProject\\LeaveManagementNet6\\LeaveManagement\\LeaveManagement.csproj": {}
+    "C:\\Users\\ji565\\dotnet\\LeaveManagement\\LeaveManagement.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ji565\\git\\dotnetProject\\LeaveManagementNet6\\LeaveManagement\\LeaveManagement.csproj": {
+    "C:\\Users\\ji565\\dotnet\\LeaveManagement\\LeaveManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ji565\\git\\dotnetProject\\LeaveManagementNet6\\LeaveManagement\\LeaveManagement.csproj",
+        "projectUniqueName": "C:\\Users\\ji565\\dotnet\\LeaveManagement\\LeaveManagement.csproj",
         "projectName": "LeaveManagement",
-        "projectPath": "C:\\Users\\ji565\\git\\dotnetProject\\LeaveManagementNet6\\LeaveManagement\\LeaveManagement.csproj",
+        "projectPath": "C:\\Users\\ji565\\dotnet\\LeaveManagement\\LeaveManagement.csproj",
         "packagesPath": "C:\\Users\\ji565\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ji565\\git\\dotnetProject\\LeaveManagementNet6\\LeaveManagement\\obj\\",
+        "outputPath": "C:\\Users\\ji565\\dotnet\\LeaveManagement\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

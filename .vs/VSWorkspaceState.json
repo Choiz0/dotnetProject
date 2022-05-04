@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\LeaveManagement",
+    "\\LeaveManagement\\Models",
+    "\\LeaveManagement\\Views"
   ],
-  "SelectedNode": "\\C:\\Users\\ji565\\dotnet",
+  "SelectedNode": "\\LeaveManagement\\LeaveManagement.csproj",
   "PreviewInSolutionExplorer": false
 }
